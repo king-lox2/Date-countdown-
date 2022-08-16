@@ -3,7 +3,7 @@
 This project was achieved by the combination of html pure css and JavaScript 
 Javascript was used to make the project dynamic you can check out the Live Site below
 
-Link to live site : 
+Link to live site : https://king-lox2.github.io/Date-countdown-/
 
 Display 
 
